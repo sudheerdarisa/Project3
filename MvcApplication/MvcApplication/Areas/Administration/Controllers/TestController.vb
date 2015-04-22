@@ -6,10 +6,12 @@
         ' GET: /Administration/Test
 
         Function Index() As ActionResult
-
+            ' This is just a sample method
 
             Return View()
         End Function
+
+       
 
     End Class
 End Namespace
